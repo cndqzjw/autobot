@@ -16,9 +16,9 @@ sol_auto_trader/
 
 ├── logs/
 
-│   ├── trade_log.jsonl    # 交易日志
+│		├── trade_log.jsonl    # 交易日志
 
-│   └── price_log.jsonl    # 行情日志（可选）
+│		└── price_log.jsonl    # 行情日志（可选）
 
 ├── backtest.py            # 回测与复盘分析工具
 
